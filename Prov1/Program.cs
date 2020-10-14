@@ -6,6 +6,8 @@ namespace Prov1
     {
         static void Main(string[] args)
         {
+
+            Book book = new Book();
             
         }
     }
